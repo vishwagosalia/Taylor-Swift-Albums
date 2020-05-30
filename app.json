@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "name": "AwesomeProject",
+=======
+  "name": "Albums",
+>>>>>>> f45bc33b02f7b2f8194ae30fa36c2a9ed7e4e466
   "displayName": "PlayMusic"
 }

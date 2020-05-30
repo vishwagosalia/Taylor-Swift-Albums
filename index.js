@@ -19,4 +19,8 @@ const styles = {
 };
 
 //rendering the component on the device
+<<<<<<< HEAD
 AppRegistry.registerComponent('AwesomeProject', () => App);
+=======
+AppRegistry.registerComponent('Albums', () => App);
+>>>>>>> f45bc33b02f7b2f8194ae30fa36c2a9ed7e4e466
