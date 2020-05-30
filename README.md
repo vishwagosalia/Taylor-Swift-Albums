@@ -12,4 +12,4 @@
 `react-native run-android`
 
 ### Screenshots
-![Screenshot 1](https://github.com/vishwagosalia/Tech-Stack/blob/master/screenshots/ss1.png)
+![Screenshot 1](https://github.com/vishwagosalia/Taylor-Swift-Albums/blob/master/screenshots/ss1.png)
